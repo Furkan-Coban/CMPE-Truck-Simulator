@@ -27,13 +27,13 @@ The **CMPE Truck Simulator** is a fleet management simulation project for the **
    ```sh
    java Main <input_file> <output_file>
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
   - Java
   - File I/O Handling
   - Data Structures (Lists, Trees, etc.)
   - Algorithm Optimization
 
-📌 Author
+## 📌 Author
   - Name: Furkan Çoban
   - Course: CmpE 250 - Boğaziçi University
   - Year: Fall 2024
